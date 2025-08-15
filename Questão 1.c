@@ -8,7 +8,7 @@ int main() {
 
     fahrenheit = (celsius * 9 / 5) + 32;
 
-    printf("A temperatura em Fahrenheit e: %f °F", fahrenheit);
+    printf("A temperatura em Fahrenheit e: %f Â°F", fahrenheit);
 
     return 0;
 }
